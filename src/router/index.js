@@ -13,6 +13,11 @@ const router = createRouter({
       path: '/tic-tac-toe',
       name: 'tic-tac-toe',
       component: () => import('../views/TicTacToeView.vue')
+    },
+    {
+      path: '/wordle',
+      name: 'wordle',
+      component: () => import('../views/WordleView.vue')
     }
   ]
 })

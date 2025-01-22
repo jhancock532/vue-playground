@@ -2,7 +2,8 @@
   <header>
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/tic-tac-toe">Tic Tac Toe</router-link>
+      <router-link to="/tic-tac-toe">Tic Tac Toe</router-link> |
+      <router-link to="/wordle">Wordle</router-link>
     </nav>
   </header>
 

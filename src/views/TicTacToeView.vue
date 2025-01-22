@@ -106,11 +106,11 @@ function updateBoard(x_index, y_index){
 
 .play-again-button {
   margin-top: 20px;
-  margin-left: 20px;
 }
 
 .board {
   margin: 30px auto 0;
+  padding-right: 20px;
   width: 300px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
